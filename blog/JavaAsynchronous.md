@@ -1,10 +1,10 @@
 1. Java 7:
-   -Callback:
+   - Callback:
       http://www.cnblogs.com/yjmyzz/p/4728770.html 
-   -Asynchronous/ runable
+   - Asynchronous/ runable
       http://stackoverflow.com/questions/826212/java-executors-how-to-be-notified-without-blocking-when-a-task-completes
       http://stackoverflow.com/questions/1842734/how-to-asynchronously-call-a-method-in-java
-   -Callable/Future/FutureTask
+   - Callable/Future/FutureTask
       http://www.javaworld.com/article/2071323/using-callable-to-return-results-from-runnables.html
 
 

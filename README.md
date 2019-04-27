@@ -1,5 +1,8 @@
+---
 title: zizi thoughts
 redirect_to: https://zizifn.github.io/thoughts/
+---
+
 
 # zizifn.github.io
 
